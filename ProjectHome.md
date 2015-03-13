@@ -1,0 +1,1 @@
+A minimalistic news reader written in Vala. Code is on Gitorious.
